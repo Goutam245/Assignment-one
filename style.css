@@ -1,0 +1,22 @@
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+   margin: 150px;
+}
+.body-new{
+    padding:0px;
+    margin: -100px;
+}
+.body-10{
+    justify-content: space-between;
+    padding: 50px;
+    margin-top: -430px;
+    margin-left: 450px;
+    padding-bottom: 200px;
+    
+}
+
+
